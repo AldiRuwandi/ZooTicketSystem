@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96545656429",
+    "project_id": "zooticketsystem",
+    "storage_bucket": "zooticketsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96545656429:android:2830ed14dc180f93593964",
+        "android_client_info": {
+          "package_name": "com.example.zooticketsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96545656429-oijifkg401ili4ks2j0t0j8djo6i8m2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7rkjkLampx31OLLNfmv34WPK4Fo-47uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96545656429-oijifkg401ili4ks2j0t0j8djo6i8m2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

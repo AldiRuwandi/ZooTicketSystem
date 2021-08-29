@@ -1,0 +1,2 @@
+rootProject.name='ZooTicketSystem'
+include ':app'
